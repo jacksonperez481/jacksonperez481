@@ -6,8 +6,7 @@
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/jacksonperez481/Azure-SOC)
 
 
-<h2> 🤳 Connect with me:</h2>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-perez-a85324203/)](https://www.linkedin.com/in/jackson-perez-a85324203/)
+
 
 
 
