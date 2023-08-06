@@ -7,6 +7,10 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-perez-a85324203/)](https://www.linkedin.com/in/jackson-perez-a85324203/)
+
+
+
 
 
 [<img align="left" alt="JacksonPerez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
