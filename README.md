@@ -4,8 +4,8 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/jacksonperez481/Azure-SOC) 
-<b>HTML/CSS Website Projects </b>
-  - <p>Created website using HTML and CSS over a local business that sells bikes and has a fitness gym. </p>
+- <b>HTML/CSS Website Projects </b>
+  
   
 
 
