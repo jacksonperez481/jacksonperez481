@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC/HoneyNet in Azure](https://github.com/jacksonperez481/Azure-SOC)
-
+  - [Creating a Live SOC/HoneyNet in Azure](https://github.com/jacksonperez481/Azure-SOC) 
+<h2>HTML/CSS Website Projects</h2>
+  
 
 
 
