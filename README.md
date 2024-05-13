@@ -10,7 +10,7 @@
 -<b> HTML / CSS projects </b>
   - https://jacksonperez481.github.io/
 
-<h3> C++ Projects: </h3>
+<h2> C++ Projects: </h2>
   -<b> https://github.com/jacksonperez481/C-/blob/main/PerezJProj9.cpp </b>
 
 
