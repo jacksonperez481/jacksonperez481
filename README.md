@@ -8,10 +8,10 @@
 <h2> Website Projects: </h2>
 
 -<b> HTML / CSS projects </b>
-  - https://jacksonperez481.github.io/
+  - <b> https://jacksonperez481.github.io/ </b>
 
 <h2> C++ Projects: </h2>
-  - https://github.com/jacksonperez481/C-/blob/main/PerezJProj9.cpp
+  - <b></b>https://github.com/jacksonperez481/C-/blob/main/PerezJProj9.cpp</b>
 
 
   
