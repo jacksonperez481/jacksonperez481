@@ -11,7 +11,7 @@
   - https://jacksonperez481.github.io/
 
 <h2> C++ Projects: </h2>
-  -<b> https://github.com/jacksonperez481/C-/blob/main/PerezJProj9.cpp </b>
+  - https://github.com/jacksonperez481/C-/blob/main/PerezJProj9.cpp
 
 
   
