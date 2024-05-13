@@ -9,6 +9,9 @@
 
 -<b> HTML / CSS projects </b>
   - https://jacksonperez481.github.io/
+
+<h3> C++ Projects </h3>
+  -  <c> </c>
   
   
 
