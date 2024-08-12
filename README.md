@@ -12,6 +12,9 @@
 
 <h2> C++ Projects: </h2>
   - <b></b>https://github.com/jacksonperez481/C-/blob/main/PerezJProj9.cpp</b>
+  
+<h2>Database Projects:</h2>
+  - <a href="https://youtu.be/Y33MFPL6CD0">Oracle APEX and SQL Developer Data Modeler Project</a>
 
 
   
