@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jackson! <br/><a href="https://github.com/jacksonperez481"></a> <a href="(https://www.linkedin.com/in/jackson-perez-a85324203/)">Computer Science Student</a> </h1>
+<h1>Hi, I'm Jackson! <br/><a href="https://github.com/jacksonperez481"></a> <a href="(https://www.linkedin.com/in/jackson-perez-a85324203/)">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
