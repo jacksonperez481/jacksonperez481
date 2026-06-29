@@ -50,6 +50,7 @@ Running 15+ self-hosted services on a Ryzen 7 7700X home server.
 
 - Cisco CCNA
 - CompTIA Security+
+- Microsoft Azure Administrator (AZ-104)
 
 ---
 
